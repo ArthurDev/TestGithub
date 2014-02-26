@@ -2,7 +2,7 @@
 session_start();
 
 $_SESSION['prenom'] = $_POST['name'];
-$_SESSION['age'] = 24;
+$_SESSION['age'] = 36; /*Modif*/
 
 try
 {
